@@ -1,4 +1,4 @@
-Fyyur by GeezerP
+Fyyur 
 -----
 
 ## Introduction
